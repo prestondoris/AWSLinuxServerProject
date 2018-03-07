@@ -2,7 +2,9 @@
 
 ## Server Information
 IP: 54.187.198.181
+
 SSH: 2200
+
 URL: http://ec2-54-187-198-181.us-west-2.compute.amazonaws.com/
 > Use this URL to access the website and all of its features. Using the IP address as the URL will work but Google OAuth login will return a 404 error.
 
